@@ -1,0 +1,11 @@
+{
+  "id": "two-factor-authentication-setup",
+  "title": "Setting Up Two-Factor Authentication",
+  "taxonomy_path": "Security > Account Access > Two-Factor Authentication",
+  "status": "published",
+  "owner": "security-content-team",
+  "last_reviewed": "2025-12-05",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Two-factor authentication can be enabled in Security Settings in the mobile app or website. Supported second factors include SMS codes, an authenticator app, or a physical security key. Once enabled, a second factor is required any time you sign in from a new device. Backup codes should be saved somewhere safe in case the primary second factor is unavailable."
+}

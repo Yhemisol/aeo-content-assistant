@@ -1,0 +1,11 @@
+{
+  "id": "mobile-check-deposit-troubleshooting",
+  "title": "Mobile Check Deposit: Troubleshooting a Rejected Deposit",
+  "taxonomy_path": "Deposits > Mobile Check Deposit > Troubleshooting",
+  "status": "published",
+  "owner": "deposits-content-team",
+  "last_reviewed": "2026-06-20",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "If a mobile check deposit is rejected, the most common causes are a missing or incorrect endorsement, a blurry photo of the check, or a stale-dated check (older than six months). Rejected deposits are not charged against your deposit limit. Re-take the photo in good lighting on a dark, flat surface and confirm the endorsement includes 'For Mobile Deposit Only' before resubmitting. If the issue persists, deposit the check in person at a branch or ATM instead."
+}

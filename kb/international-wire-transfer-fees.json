@@ -1,0 +1,11 @@
+{
+  "id": "international-wire-transfer-fees",
+  "title": "International Wire Transfer Fees",
+  "taxonomy_path": "Payments > Wire Transfers > International",
+  "status": "published",
+  "owner": "payments-content-team",
+  "last_reviewed": "2026-01-20",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Outgoing international wire transfers carry a $45 fee, plus any fees charged by intermediary or receiving banks, which the sender does not control. International wires are typically sent in the recipient's local currency at the exchange rate in effect at the time of transfer. Delivery usually takes one to five business days depending on the destination country."
+}

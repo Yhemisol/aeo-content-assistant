@@ -1,0 +1,11 @@
+{
+  "id": "card-dispute-process",
+  "title": "How to Dispute a Card Charge",
+  "taxonomy_path": "Accounts > Cards > Disputes",
+  "status": "published",
+  "owner": "cards-content-team",
+  "last_reviewed": "2026-03-11",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "To dispute a card charge, open the transaction in the mobile app and select 'Dispute this charge,' or call support. Disputes must generally be filed within 60 days of the statement date on which the charge appeared. Provisional credit is typically issued within 10 business days while the dispute is investigated, and the investigation itself can take up to 90 days for complex cases."
+}

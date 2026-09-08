@@ -1,0 +1,11 @@
+{
+  "id": "mobile-check-deposit-limits-2023",
+  "title": "Mobile Check Deposit Limits (2023)",
+  "taxonomy_path": "Deposits > Mobile Check Deposit > Limits",
+  "status": "retired",
+  "owner": "deposits-content-team",
+  "last_reviewed": "2023-06-15",
+  "supersedes": null,
+  "superseded_by": "mobile-check-deposit-limits",
+  "body": "Mobile check deposit limits are $2,500 per check and $5,000 total per rolling 30-day period for personal accounts in good standing. Customers who need higher limits can request an increase by visiting a branch with two forms of ID. Deposited funds are typically available within two business days. Checks must be endorsed with 'For Mobile Deposit Only' to be accepted."
+}

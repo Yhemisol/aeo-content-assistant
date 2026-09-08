@@ -1,0 +1,11 @@
+{
+  "id": "zelle-transfer-limits",
+  "title": "Zelle Transfer Limits",
+  "taxonomy_path": "Payments > Zelle > Limits",
+  "status": "published",
+  "owner": "payments-content-team",
+  "last_reviewed": "2026-05-09",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Zelle transfers are limited to $2,500 per day and $10,000 per rolling 30-day period for personal accounts. Business accounts have separate, higher limits set at account opening. Zelle transfers to enrolled recipients typically arrive within minutes. There is no fee to send or receive money via Zelle."
+}

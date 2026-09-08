@@ -1,0 +1,11 @@
+{
+  "id": "atm-withdrawal-limits",
+  "title": "ATM Withdrawal Limits",
+  "taxonomy_path": "Accounts > Cards > ATM Withdrawals",
+  "status": "published",
+  "owner": "cards-content-team",
+  "last_reviewed": "2026-06-02",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Standard debit cards allow ATM withdrawals of up to $1,000 per day at in-network ATMs. Out-of-network ATMs may impose a lower limit set by the ATM operator in addition to the card limit. Customers can request a temporary limit increase for travel by contacting support or adjusting the limit in the mobile app under Card Controls."
+}

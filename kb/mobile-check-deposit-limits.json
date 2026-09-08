@@ -1,0 +1,11 @@
+{
+  "id": "mobile-check-deposit-limits",
+  "title": "Mobile Check Deposit Limits",
+  "taxonomy_path": "Deposits > Mobile Check Deposit > Limits",
+  "status": "published",
+  "owner": "deposits-content-team",
+  "last_reviewed": "2026-07-01",
+  "supersedes": "mobile-check-deposit-limits-2023",
+  "superseded_by": null,
+  "body": "Mobile check deposit limits are $5,000 per check and $10,000 total per rolling 30-day period for personal accounts in good standing. Limits are higher for customers with an established account history of two years or more. Deposited funds are typically available within one business day, though the first $500 is often available immediately. Checks must be endorsed with 'For Mobile Deposit Only' and the account number written on the back to be accepted."
+}

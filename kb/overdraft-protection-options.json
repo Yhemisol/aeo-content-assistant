@@ -1,0 +1,11 @@
+{
+  "id": "overdraft-protection-options",
+  "title": "Overdraft Protection Options",
+  "taxonomy_path": "Accounts > Overdraft > Protection Options",
+  "status": "published",
+  "owner": "accounts-content-team",
+  "last_reviewed": "2026-04-22",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Overdraft protection can be linked from a savings account or a credit line to cover transactions that would otherwise overdraw checking. Transfers from a linked savings account carry no fee. Transfers from a linked credit line are treated as a cash advance and accrue interest from the transfer date. Customers can opt in or out of overdraft coverage for everyday debit card purchases at any time in account settings."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "joint-account-management",
+  "title": "Managing a Joint Account",
+  "taxonomy_path": "Accounts > Account Types > Joint Accounts",
+  "status": "published",
+  "owner": "accounts-content-team",
+  "last_reviewed": "2025-11-14",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "Either owner on a joint account can make transactions, view statements, and manage account settings independently unless the account was set up requiring both signatures. Removing a joint owner requires a branch visit with ID for both account holders. Either owner can close the account without the other's consent unless the account agreement specifies otherwise."
+}

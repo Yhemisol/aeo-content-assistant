@@ -1,0 +1,11 @@
+{
+  "id": "wire-transfer-domestic-limits-2024",
+  "title": "Domestic Wire Transfer Limits (2024)",
+  "taxonomy_path": "Payments > Wire Transfers > Limits",
+  "status": "retired",
+  "owner": "payments-content-team",
+  "last_reviewed": "2024-03-01",
+  "supersedes": null,
+  "superseded_by": "wire-transfer-domestic-limits",
+  "body": "The daily limit for outgoing domestic wire transfers is $25,000 per account for personal banking customers. Customers who need to send more than $25,000 in a single day must contact a banker directly to request an exception. Wire transfer limits apply per account, not per customer, so customers with multiple accounts may have separate limits on each. Same-day domestic wires submitted before 3:00 PM ET are typically processed the same business day."
+}

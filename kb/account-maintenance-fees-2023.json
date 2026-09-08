@@ -1,0 +1,11 @@
+{
+  "id": "account-maintenance-fees-2023",
+  "title": "Monthly Account Maintenance Fees (2023)",
+  "taxonomy_path": "Accounts > Fees > Maintenance Fees",
+  "status": "retired",
+  "owner": "accounts-content-team",
+  "last_reviewed": "2023-01-10",
+  "supersedes": null,
+  "superseded_by": "account-maintenance-fees",
+  "body": "The monthly maintenance fee for a standard checking account is $15, and is automatically waived for any month with a qualifying direct deposit of $750 or more. There is no minimum-balance waiver option for checking accounts. Savings accounts carry a $6 monthly fee with no waiver available."
+}

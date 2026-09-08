@@ -1,0 +1,11 @@
+{
+  "id": "account-closure-process",
+  "title": "How to Close Your Account",
+  "taxonomy_path": "Accounts > Account Management > Closing an Account",
+  "status": "published",
+  "owner": "accounts-content-team",
+  "last_reviewed": "2025-10-02",
+  "supersedes": null,
+  "superseded_by": null,
+  "body": "To close an account, the balance must first be zeroed out by transfer or withdrawal, and all pending transactions and automatic payments must clear. Accounts can be closed by phone, in a branch, or through secure chat, but not through the mobile app directly. Closing an account does not affect your credit score unless it carries a negative balance sent to collections."
+}
