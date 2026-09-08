@@ -1,0 +1,107 @@
+[
+  {
+    "id": "q01",
+    "question": "How much can I wire in one day?",
+    "category": "staleness",
+    "expected_article_id": "wire-transfer-domestic-limits",
+    "note": "Two versions of this article exist (current $50k limit, retired $25k limit). Naive retrieval has no reason to prefer the current one."
+  },
+  {
+    "id": "q02",
+    "question": "How much can I send in a domestic wire transfer per day?",
+    "category": "staleness",
+    "expected_article_id": "wire-transfer-domestic-limits",
+    "note": "Same staleness risk as q01, different phrasing — the retired article's wording happens to overlap more with this phrasing."
+  },
+  {
+    "id": "q03",
+    "question": "What is the monthly maintenance fee for checking?",
+    "category": "staleness",
+    "expected_article_id": "account-maintenance-fees",
+    "note": "Fee changed from $15/mo (2023, retired) to $12/mo with a balance-waiver option (current)."
+  },
+  {
+    "id": "q04",
+    "question": "How do I avoid the monthly account fee?",
+    "category": "staleness",
+    "expected_article_id": "account-maintenance-fees",
+    "note": "Same fee article pair as q03, different phrasing."
+  },
+  {
+    "id": "q05",
+    "question": "What are the benefits of a student checking account?",
+    "category": "content_gap",
+    "expected_article_id": null,
+    "note": "Only unreviewed draft content exists on this topic. Correct behavior is to flag a content gap, not answer from the draft."
+  },
+  {
+    "id": "q06",
+    "question": "Is there a student checking account with no fees?",
+    "category": "content_gap",
+    "expected_article_id": null,
+    "note": "Same content gap as q05, different phrasing."
+  },
+  {
+    "id": "q07",
+    "question": "What ATM fee rebates does the student account offer?",
+    "category": "content_gap",
+    "expected_article_id": null,
+    "note": "Same content gap as q05, targeting a specific unconfirmed detail (ATM rebate count) from the draft."
+  },
+  {
+    "id": "q08",
+    "question": "What is the mobile deposit limit?",
+    "category": "ambiguity",
+    "expected_article_id": "mobile-check-deposit-limits",
+    "note": "Honest miss: the troubleshooting article mentions 'deposit limit' in passing and outscores the actual limits article for both naive and governed retrieval. This is a query-disambiguation problem, not a staleness or governance problem — filtering by status doesn't fix it."
+  },
+  {
+    "id": "q09",
+    "question": "How much can I deposit with my phone per check?",
+    "category": "ambiguity",
+    "expected_article_id": "mobile-check-deposit-limits",
+    "note": "Same ambiguity as q08, different phrasing."
+  },
+  {
+    "id": "q10",
+    "question": "How do I dispute a charge on my card?",
+    "category": "control",
+    "expected_article_id": "card-dispute-process",
+    "note": "No stale duplicate, no ambiguity. Both modes should get this right."
+  },
+  {
+    "id": "q11",
+    "question": "How much can I withdraw from an ATM per day?",
+    "category": "control",
+    "expected_article_id": "atm-withdrawal-limits",
+    "note": "Control question."
+  },
+  {
+    "id": "q12",
+    "question": "How do I set up two-factor authentication?",
+    "category": "control",
+    "expected_article_id": "two-factor-authentication-setup",
+    "note": "Control question."
+  },
+  {
+    "id": "q13",
+    "question": "Can I remove someone from a joint account?",
+    "category": "control",
+    "expected_article_id": "joint-account-management",
+    "note": "Control question."
+  },
+  {
+    "id": "q14",
+    "question": "What does it cost to send an international wire?",
+    "category": "control",
+    "expected_article_id": "international-wire-transfer-fees",
+    "note": "Control question."
+  },
+  {
+    "id": "q15",
+    "question": "How do I turn on overdraft protection?",
+    "category": "control",
+    "expected_article_id": "overdraft-protection-options",
+    "note": "Control question."
+  }
+]
